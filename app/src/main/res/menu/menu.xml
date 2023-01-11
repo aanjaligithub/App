@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/home"
+       android:icon="@drawable/ic_baseline_home_24"
+       android:title="Home">
+
+   </item>
+    <item android:id="@+id/thirtydays"
+        android:icon="@drawable/ic_baseline_30fps_24"
+        android:title="30Days">
+
+    </item>
+    <item android:id="@+id/workout"
+        android:icon="@drawable/menu_workout"
+        android:title="Workout">
+
+    </item>
+    <item android:id="@+id/calculater"
+        android:icon="@drawable/ic_baseline_calendar_month_24"
+        android:title="Calender">
+
+    </item>
+    <item android:id="@+id/reminder"
+        android:icon="@drawable/menu_reminder"
+        android:title="Reminder">
+
+    </item>
+
+</menu>

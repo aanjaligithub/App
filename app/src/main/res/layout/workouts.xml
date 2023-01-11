@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:background="#fefdfd">
+    <ImageView
+        android:id="@+id/frontView"
+        android:layout_width="900dp"
+        android:layout_height="2500dp"
+        android:src="@drawable/front1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        />
+
+    <Button
+        android:id="@+id/btn_6"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="550dp"
+        android:text="180"
+        android:textColor="@color/white"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/exc1"
+        android:text="BICEPS"
+        android:textSize="16dp"
+        android:textColor="@color/primary"
+        android:background="#fefdfd"
+        android:textStyle="bold"
+        android:layout_marginStart="290dp"
+        android:layout_marginTop="210dp"
+        android:layout_width="70dp"
+        android:layout_height="17dp"
+
+        />
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>
